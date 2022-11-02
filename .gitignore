@@ -7,12 +7,12 @@ Project Pertama - Ibnu Ubaedillah/.vsconfig
 Project Pertama - Ibnu Ubaedillah/*.sln
 
 -- PING PONG --
-pingpong/Library/*
-pingpong/Logs/* 
-pingpong/Temp/* 
-pingpong/.vs/* 
-pingpong/obj/* 
+Ibnu ubaedillah - Pong/Library/*
+Ibnu ubaedillah - Pong/Logs/* 
+Ibnu ubaedillah - Pong/Temp/* 
+Ibnu ubaedillah - Pong/.vs/* 
+Ibnu ubaedillah - Pong/obj/* 
  
-pingpong/.vsconfig 
-pingpong/*.sln 
-pingpong/*.csproj 
+Ibnu ubaedillah - Pong/.vsconfig 
+Ibnu ubaedillah - Pong/*.sln 
+Ibnu ubaedillah - Pong/*.csproj 
