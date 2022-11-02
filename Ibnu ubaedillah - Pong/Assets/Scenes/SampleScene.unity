@@ -221,8 +221,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  upKey: 273
-  downKey: 274
+  upKey: 111
+  downKey: 108
 --- !u!50 &15415549
 Rigidbody2D:
   serializedVersion: 4
@@ -735,8 +735,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  upKey: 119
-  downKey: 115
+  upKey: 101
+  downKey: 100
 --- !u!50 &1720894075
 Rigidbody2D:
   serializedVersion: 4
