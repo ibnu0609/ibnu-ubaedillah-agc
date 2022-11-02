@@ -1,7 +1,18 @@
-
+-- PROJECT PERTAMA --
 Project Pertama - Ibnu Ubaedillah/Library/*
 Project Pertama - Ibnu Ubaedillah/Logs/*
 Project Pertama - Ibnu Ubaedillah/Temp/*
 
 Project Pertama - Ibnu Ubaedillah/.vsconfig
 Project Pertama - Ibnu Ubaedillah/*.sln
+
+-- PING PONG --
+pingpong/Library/*
+pingpong/Logs/* 
+pingpong/Temp/* 
+pingpong/.vs/* 
+pingpong/obj/* 
+ 
+pingpong/.vsconfig 
+pingpong/*.sln 
+pingpong/*.csproj 
